@@ -661,3 +661,18 @@
   </script>
 </body>
 </html>
+<style>
+  .avatar { display: none; }
+  .text-logo { font-size: 80px; font-weight: bold; color: #fff; text-shadow: 0 0 20px rgba(255,255,255,0.8); margin-bottom: 10px; text-align: center; }
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const profile = document.getElementById('profile');
+    if (profile) {
+      const textLogo = document.createElement('div');
+      textLogo.className = 'text-logo';
+      textLogo.innerText = 'حـــر';
+      profile.prepend(textLogo);
+    }
+  });
+</script>
