@@ -3,8 +3,8 @@
   "bio": "جميع حساباتي",
   "avatar": "assets/avatar.png",
   "background": {
-    "type": "image",
-    "src": "assets/bg.gif",
+    "type": "video",
+    "src": "assets/bg.mp4",
     "overlay": 0.55
   },
   "theme": {
