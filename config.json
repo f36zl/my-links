@@ -1,5 +1,5 @@
 {
-  "name": "REDLINE",
+  "name": "حر",
   "bio": "Erkek giyim markası",
   "avatar": "assets/avatar.png",
   "background": {
@@ -19,14 +19,19 @@
     },
     {
       "title": "Telegram Group",
-      "url": "https://t.me/redlinemen",
+      "url": "https://t.me/f36zl",
       "icon": "telegram"
     },
     {
       "title": "Instagram",
-      "url": "https://www.instagram.com/redline.officially/",
+      "url": "https://www.instagram.com/f36zl?mdxt=bTc5ZDZxYmY4c2I1",
       "icon": "instagram"
     }
+    {
+  "title": "TikTok",
+  "url": "https://www.tiktok.com/@f36zl",
+  "icon": "tiktok"
+}
   ],
   "sections": [
     {
