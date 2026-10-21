@@ -13,11 +13,6 @@
   },
   "links": [
     {
-      "title": "WhatsApp",
-      "url": "https://api.whatsapp.com/send?phone=905301640012",
-      "icon": "whatsapp"
-    },
-    {
       "title": "Telegram Group",
       "url": "https://t.me/f36zl",
       "icon": "telegram"
@@ -33,45 +28,7 @@
       "icon": "tiktok"
     }
   ],
-  "sections": [
-    {
-      "title": "WhatsApp Katalog",
-      "type": "grid",
-      "columns": 2,
-      "items": [
-        {
-          "title": "Hepsini Gönder",
-          "subtitle": "49 foto",
-          "url": "https://wa.me/905301640012?text=%23hepsi",
-          "icon": "send"
-        },
-        {
-          "title": "Slim Fit",
-          "subtitle": "26 foto",
-          "url": "https://wa.me/905301640012?text=%23slimfit",
-          "icon": "image"
-        },
-        {
-          "title": "Oversize",
-          "subtitle": "17 foto",
-          "url": "https://wa.me/905301640012?text=%23oversize",
-          "icon": "image"
-        },
-        {
-          "title": "Pants",
-          "subtitle": "5 foto",
-          "url": "https://wa.me/905301640012?text=%23pants",
-          "icon": "image"
-        },
-        {
-          "title": "Adres",
-          "subtitle": "1 foto",
-          "url": "https://wa.me/905301640012?text=%23adress",
-          "icon": "location"
-        }
-      ]
-    }
-  ],
+  "sections": [],
   "seo": {
     "title": "حر - Links",
     "description": "حر - Erkek giyim markası."
