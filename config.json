@@ -24,14 +24,14 @@
     },
     {
       "title": "Instagram",
-      "url": "https://www.instagram.com/f36zl?mdxt=bTc5ZDZxYmY4c2I1",
+      "url": "https://www.instagram.com/f36zl",
       "icon": "instagram"
-    }
+    },
     {
-  "title": "TikTok",
-  "url": "https://www.tiktok.com/@f36zl",
-  "icon": "tiktok"
-}
+      "title": "TikTok",
+      "url": "https://www.tiktok.com/@f36zl",
+      "icon": "tiktok"
+    }
   ],
   "sections": [
     {
@@ -73,48 +73,42 @@
     }
   ],
   "seo": {
-    "title": "REDLINE - Links",
-    "description": "REDLINE - Erkek giyim markası. WhatsApp, Instagram, Telegram ve daha fazlası."
+    "title": "حر - Links",
+    "description": "حر - Erkek giyim markası."
   },
   "i18n": {
     "enabled": true,
-    "default": "tr",
+    "default": "ar",
     "translations": {
-      "tr": {
-        "WhatsApp": "WhatsApp",
-        "Telegram Group": "Telegram Grup",
-        "Instagram": "Instagram",
-        "WhatsApp Katalog": "WhatsApp Katalog",
-        "Hepsini Gönder": "Hepsini Gönder",
-        "Pants": "Pantolon",
-        "Adres": "Adres"
+      "ar": {
+        "WhatsApp": "واتساب",
+        "Telegram Group": "مجموعة تيليغرام",
+        "Instagram": "انستغرام",
+        "TikTok": "تيك توك",
+        "WhatsApp Katalog": "كتالوج واتساب",
+        "Hepsini Gönder": "ارسال الكل",
+        "Pants": "بناطيل",
+        "Adres": "العنوان"
       },
       "en": {
         "WhatsApp": "WhatsApp",
         "Telegram Group": "Telegram Group",
         "Instagram": "Instagram",
+        "TikTok": "TikTok",
         "WhatsApp Katalog": "WhatsApp Catalog",
         "Hepsini Gönder": "Send All",
         "Pants": "Pants",
         "Adres": "Address"
       },
-      "ru": {
+      "tr": {
         "WhatsApp": "WhatsApp",
-        "Telegram Group": "Telegram Группа",
+        "Telegram Group": "Telegram Grup",
         "Instagram": "Instagram",
-        "WhatsApp Katalog": "WhatsApp Каталог",
-        "Hepsini Gönder": "Отправить все",
-        "Pants": "Брюки",
-        "Adres": "Адрес"
-      },
-      "ar": {
-        "WhatsApp": "واتساب",
-        "Telegram Group": "مجموعة تيليغرام",
-        "Instagram": "انستغرام",
-        "WhatsApp Katalog": "كتالوج واتساب",
-        "Hepsini Gönder": "ارسال الكل",
-        "Pants": "بناطيل",
-        "Adres": "العنوان"
+        "TikTok": "TikTok",
+        "WhatsApp Katalog": "WhatsApp Katalog",
+        "Hepsini Gönder": "Hepsini Gönder",
+        "Pants": "Pantolon",
+        "Adres": "Adres"
       }
     }
   }
